@@ -1,0 +1,177 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin: auto;
+    text-align: center;
+}
+
+nav {
+    order:-1;
+}
+
+nav ul {
+    display:flex;
+    padding:0;
+    width: 0%;
+}
+
+nav ul.open{
+    transform:translateX(0);
+}
+
+
+nav a {
+    display:flex;
+    padding:.25em 1em;
+}
+
+nav a img {
+    width:auto;
+    height:2em;
+}
+
+  
+h1{
+    width:100%;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 0;
+    text-align: center;
+}
+
+h4{
+    width:100%;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 0;
+    text-align: center;
+}
+
+h5{
+    width:100%;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 0;
+    text-align: center;
+}
+
+h6{
+    width:100%;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 0;
+    text-align: center;
+}
+
+article:nth-child(1){
+    grid-template-columns: 1fr;
+    background:#333333;
+    color: white;
+    font-size: 1em;
+    padding: 20px;
+    margin: 0px;
+}
+
+article.iphone{
+    background:#333333;
+    color: white;
+    font-size: 1em;
+    padding: 20px;
+    margin: 0px;
+}
+
+article.iphone a{
+    display: grid;
+    background-color: #5292ce;
+    border-style: solid; 
+    border-color: #f2f3f3;
+    border-radius: 10px;
+    width:100%;
+    font-size: 16px;
+
+}
+
+article.iphone a:last-child{
+    display: grid;
+    color: #5292ce;
+    background-color: white;
+    border-style: solid; 
+    border-color: #5292ce;
+    border-radius: 10px;
+    width:100%;
+    font-size: 16px;
+
+}
+
+article.iphone h2{
+    font-size: 16px;
+}
+
+section {
+    display:grid;
+    grid-template-columns:1fr 1fr;
+
+}
+section article:nth-child(1){
+    background: none;
+    color: black;
+}
+
+section:last-child{
+    background: white;
+    color: black;
+}
+
+article{
+border-style: solid; 
+border-color: #f2f3f3;
+border-radius: 10px;
+}
+
+p{
+    font-size: 12px;
+ }
+
+img {
+    display: flex;
+    width: 100%;
+}
+
+li{
+    list-style-type: none;
+}
+
+a:nth-child(3){
+    display: grid;
+    background-color: #5292ce;
+    border-style: solid; 
+    border-color: #f2f3f3;
+    border-radius: 10px;
+}
+
+a:nth-child(4){
+    display: grid;
+    background-color: #5292ce;
+    border-style: solid; 
+    border-color: #f2f3f3;
+    border-radius: 10px;
+
+}
+
+a:nth-child(5){
+    display: grid;
+    background-color: #5292ce;
+    border-style: solid; 
+    border-color: #f2f3f3;
+    border-radius: 10px;
+}
+
+#iphone13 {
+    background-color: white;
+    color: black;
+}
+
+button {
+    border: none;
+    background: none;
+}
