@@ -1,7 +1,8 @@
-var demenuButton = document.querySelector("header nav button:first-of-type");
+const button = document.querySelector("header nav button:first-of-type");
+const nav = document.querySelector("header nav:nth-child(2)");
 
 function openMenu(){
-    hetMenu.classList.toggle("open");
+    nav.classList.toggle("show");
 }
 
-demenuButton.addEventListener("click", openMenu);
+button.addEventListener("click", openMenu);
