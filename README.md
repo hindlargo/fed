@@ -70,26 +70,12 @@ hier de naam van de pagina
 <img src="/screenshots/fed-02.png" alt="3" width="375px">
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik weet niet zo goed waar ik moet beginnen, programmeren is iets waar ik niet goed in ben. Toen ik bezig geweest ben merkte ik  wel dat de breakdown schets mij voor een deel geholpen heeft.
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
+Nvt
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
 
 </details>
 
@@ -105,26 +91,11 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Voor mijn gevoel ben ik al wel een stuk verder dan dat ik al was. Het ziet er nog niet helemaal uit als hoe ik het in mijn hoofd heb. Het gaat al wel een stuk beter dan vorig jaar.
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+nvt
 
 </details>
 
