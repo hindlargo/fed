@@ -19,14 +19,34 @@
     <nav>
       <ul>
         <li><a href="#"><img src="./images/logo.png" alt="logo"></a></li>
-        <li>Service</li>
-        <li>Aanbod</li>
+        <li><a href="#"></a>Service</a></li>
+        <li><a href="#"></a>Aanbod</a></li>
       </ul>
       <ul>
         <li><a href="#"><img src="./images/profiel.png" alt="profiel"></a></li>
         <li><a href="#"><img src="./images/winkelmand.png" alt="winkelmand"></a></li>
         <li><a href="#"><img src="./images/zoeken.png" alt="zoeken"></a></li>
         <li><button aria-label="menu button">&#9776;</button></li>
+      </ul>
+    </nav>
+    <nav class="drop">
+      <ul>
+        <a href="iphone13.html">Aanbod</a>
+        <a href="#">Service</a>
+        <a href="#">MijnKPN</a>
+      </ul>
+      <ul>
+        <a href="index.html">Bestellen</a>
+        <a href="#">Mobiel</a>
+        <a href="#">Internet</a>
+        <a href="#">Televisie</a>
+        <a href="#">Andere producten</a>
+      </ul>
+      <ul>
+        <a href="#">Internet</a>
+        <a href="#">Internet & TV</a>
+        <a href="#">Internet, TV & Mobiel</a>
+        <a href="#">Mobiel & Sim Only</a>
       </ul>
     </nav>
   </header>
@@ -37,59 +57,98 @@
       <img src="./images/iphone.png" alt="iphone">
       <a>nu met € 100,- korting op AirPods</a>
       <section>
-          <form>
-         <fieldset>
-          <p>Kleur</p>
+        <form class="color">
+          <h3>Kleur</h3>
           <button class="button1">111</button>
           <button class="button2">111</button>
           <button class="button3">111</button>
           <button class="button4">111</button>
-        </fieldset>
-            <fieldset>
-              <p>Geheugen</p>
-              <input class="radiobutton" type="radio" id="128gb" name="1">
-              <label class="radiolabel" for="128gb">128 GB</label>
-              <input class="radiobutton" type="radio" id="256gb" name="1">
-              <label class="radiolabel" for="256gb">256 GB</label>
-              <input class="radiobutton" type="radio" id="512gb" name="1">
-              <label class="radiolabel" for="512gb">512 GB</label>
-            </fieldset>
-            <fieldset>
-              <p>Kies je 5G databundel</p>
-              <input class="radiobutton" type="radio" id="0gb" name="2">
-              <label class="radiolabel" for="0gb">0 GB<p>15,00 /mnd</p></label>
-              <input class="radiobutton" type="radio" id="2gb" name="2">
-              <label class="radiolabel" for="2gb">2 GB<p>17,50 /mnd</p></label>
-              <input class="radiobutton" type="radio" id="10gb" name="2">
-              <label class="radiolabel" for="10gb">10 GB<p>20,00 /mnd</p></label>
-              <input class="radiobutton" type="radio" id="20gb" name="2">
-              <label class="radiolabel" for="20gb">20 GB<p>27,50 /mnd</p></label>
-              <input class="radiobutton" type="radio" id="unlimited" name="2">
-              <label class="radiolabel" for="unlimited">Unlimited Data<p>32,50 /mnd</p></label>
-            </fieldset>
-            <fieldset>
-              <p>Bellen en sms</p>
-              <input class="radiobutton" type="radio" id="onbeperkt" name="3">
-              <label class="radiolabel" for="onbeperkt">Onbeperkt</label>
-              <input class="radiobutton" type="radio" id="150" name="3">
-              <label class="radiolabel" for="150">150 bel/sms</label>
-            </fieldset>
-            <fieldset>
-              <p>Contractduur</p>
-              <input class="radiobutton" type="radio" id="2jaar" name="4">
-              <label class="radiolabel" for="2jaar">2 jaar</label>
-              <input class="radiobutton" type="radio" id="1jaar" name="4">
-              <label class="radiolabel" for="1jaar">1 jaar</label>
-            </fieldset>
-            <fieldset>
-              <p>Kies je simkaart</p>
-              <input class="radiobutton" type="radio" id="sim" name="5">
-              <label class="radiolabel" for="sim">E-sim</label>
-              <input class="radiobutton" type="radio" id="simkaart" name="5">
-              <label class="radiolabel" for="simkaart">Simkaart</label>
-            </fieldset>
-          </form>
+        </form>
+        <form>
+          <h3>Geheugen</h3>
+          <fieldset>
+            <input class="radiobutton" type="radio" id="128gb" name="1">
+            <label class="radiolabel" for="128gb">128 GB</label>
+            <input class="radiobutton" type="radio" id="256gb" name="1">
+            <label class="radiolabel" for="256gb">256 GB</label>
+            <input class="radiobutton" type="radio" id="512gb" name="1">
+            <label class="radiolabel" for="512gb">512 GB</label>
+          </fieldset>
+          <h3>Kies je 5G databundel</h3>
+          <fieldset>
+            <input class="radiobutton" type="radio" id="0gb" name="2">
+            <label class="radiolabel" for="0gb">0 GB<p>15,00 /mnd</p></label>
+            <input class="radiobutton" type="radio" id="2gb" name="2">
+            <label class="radiolabel" for="2gb">2 GB<p>17,50 /mnd</p></label>
+            <input class="radiobutton" type="radio" id="10gb" name="2">
+            <label class="radiolabel" for="10gb">10 GB<p>20,00 /mnd</p></label>
+            <input class="radiobutton" type="radio" id="20gb" name="2">
+            <label class="radiolabel" for="20gb">20 GB<p>27,50 /mnd</p></label>
+            <input class="radiobutton" type="radio" id="unlimited" name="2">
+            <label class="radiolabel" for="unlimited">Unlimited Data<p>32,50 /mnd</p></label>
+          </fieldset>
+          <h3>Bellen en sms</h3>
+          <fieldset>
+            <input class="radiobutton" type="radio" id="onbeperkt" name="3">
+            <label class="radiolabel" for="onbeperkt">Onbeperkt</label>
+            <input class="radiobutton" type="radio" id="150" name="3">
+            <label class="radiolabel" for="150">150 bel/sms</label>
+          </fieldset>
+          <h3>Contractduur</h3>
+          <fieldset>
+            <input class="radiobutton" type="radio" id="2jaar" name="4">
+            <label class="radiolabel" for="2jaar">2 jaar</label>
+            <input class="radiobutton" type="radio" id="1jaar" name="4">
+            <label class="radiolabel" for="1jaar">1 jaar</label>
+          </fieldset>
+          <h3>Kies je simkaart</h3>
+          <fieldset>
+            <input class="radiobutton" type="radio" id="sim" name="5">
+            <label class="radiolabel" for="sim">E-sim</label>
+            <input class="radiobutton" type="radio" id="simkaart" name="5">
+            <label class="radiolabel" for="simkaart">Simkaart</label>
+          </fieldset>
+        </form>
+        <h4>Kies je entertainment</h4>
+        <section class="extra">
+          <article>
+            <img src="./images/gamepass.png" alt="gamepass">
+            <p>Xbox Game Pass Ultimate</p>
+            <p>Speel meer dan 100 games</p>
+            <button class="button5">+</button>
+            <a href="#">Meer informatie</a>
+          </article>
+          <article>
+            <img src="./images/spotify.png" alt="spotify">
+            <p>Spotify Premium</p>
+            <p>Eindeloos muziek luisteren</p>
+            <button class="button6">+</button>
+            <a href="#">Informatie en voorwaarden</a>
+          </article>
+        </section>
 
+        <section>
+          <article>
+            <h4>Kies hoe je je toestel afbetaalt</h4>
+            <p>Met het schuifje hieronder bepaal je zelf hoe je de toestelkosten (768,00) betaalt.
+              Je kunt het hele bedrag in één keer betalen, of kiezen hoeveel je per maand aflost.</p>
+
+            <div class="prijs">
+              <input type="range" min="0" max="100" value="50" id="slider">
+            </div>
+          </article>
+        </section>
+      </section>
+      <section class="overzicht">
+        <h3>Jouw keuze</h3>
+        <ul>
+          <li>Toestel</li>
+          <li>Abonnement</li>
+          <li>Extra's</li>
+          <li>Totaal per maand</li>
+          <li>Eenmalig</li>
+        </ul>
+        <button class="bestel">Doorgaan met bestellen</button>
       </section>
       <script src="js/script.js" charset="utf-8"></script>
   </main>
