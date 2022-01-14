@@ -40,13 +40,6 @@ hier de naam van de pagina
 <img src="/screenshots/fed-02.png" alt="2" width="375px">
 
 
-#### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
- 
-</details>
-
-
 
 
 
