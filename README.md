@@ -37,13 +37,13 @@ https://www.kpn.com
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
- <img src="screenshots/fed-01.png" alt="1"> width="375px"
-<img src="/screenshots/fed-02.png alt="2">
-<img src="/screenshots/fed-03.png alt="3">
-<img src="/screenshots/fed-04.png alt="4">
-<img src="./screenshots/fed-05.png alt="5">
-<img src="screenshots/fed-06.png alt="6">
-<img src="screenshots/fed-07.png alt="7">
+ <img src="screenshots/fed-01.png" alt="1"> width="175px"
+<img src="/screenshots/fed-02.png" alt="2"> width="175px"
+<img src="/screenshots/fed-03.png" alt="3"> width="175px"
+<img src="/screenshots/fed-04.png" alt="4"> width="175px"
+<img src="./screenshots/fed-05.png" alt="5"> width="175px"
+<img src="screenshots/fed-06.png" alt="6"> width="175px"
+<img src="screenshots/fed-07.png" alt="7"> width="175px"
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
