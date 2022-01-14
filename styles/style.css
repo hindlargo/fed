@@ -80,6 +80,7 @@ nav a {
   background: rgb(230, 255, 218);
   margin: 0.1em;
   border: 1px white solid;
+  font-size: clamp(8px, 3vw, 14px);
 }
 
 
@@ -125,7 +126,7 @@ img {
 }
 
 #homepage p {
-  font-size: clamp(8px, 3vw, 14px);
+  font-size: clamp(8px, 3vw, 16px);
 }
 
 #homepage main>section a {
