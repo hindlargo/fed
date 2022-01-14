@@ -37,7 +37,7 @@ https://www.kpn.com
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="/screenshots/fed-01.png alt="1">
+<img src="/screenshots/fed-01.png alt="1"> width="375px"
 <img src="/screenshots/fed-02.png alt="2">
 <img src="/screenshots/fed-03.png alt="3">
 <img src="/screenshots/fed-04.png alt="4">
