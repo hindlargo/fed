@@ -37,13 +37,8 @@ https://www.kpn.com
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
- <img src="screenshots/fed-01.png" alt="1" width="375px">
 <img src="/screenshots/fed-02.png" alt="2" width="375px">
-<img src="/screenshots/fed-03.png" alt="3" width="375px">
-<img src="/screenshots/fed-04.png" alt="4" width="375px">
-<img src="./screenshots/fed-05.png" alt="5" width="375px">
-<img src="screenshots/fed-06.png" alt="6" width="375px">
-<img src="screenshots/fed-07.png" alt="7" width="375px">
+
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
@@ -61,13 +56,7 @@ hier de naam van de pagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
-### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+ <img src="screenshots/fed-01.png" alt="1" width="375px">
 
 </details>
 
@@ -78,7 +67,7 @@ hier de naam van de pagina
 ## Voortgang 1 (week 2)
 
 <details>
-<summary>uitwerken voor 1e voortgang</summary>
+<img src="/screenshots/fed-02.png" alt="3" width="375px">
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
@@ -111,7 +100,9 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Voortgang 2 (week 3)
 
 <details>
-<summary>uitwerken voor 2e voortgang</summary>
+<img src="/screenshots/fed-03.png" alt="3" width="375px">
+
+
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
@@ -145,6 +136,8 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 <details>
 <summary>uitwerken na test in 8e voortgang</summary>
+ <img src="screenshots/fed-07.png" alt="7" width="375px">
+
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
@@ -182,7 +175,9 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 
 <details>
 <summary>uitwerken voor 3e voortgang</summary>
-
+<img src="/screenshots/fed-04.png" alt="4" width="375px">
+<img src="./screenshots/fed-05.png" alt="5" width="375px">
+<img src="screenshots/fed-06.png" alt="6" width="375px">
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
