@@ -154,7 +154,10 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
-
+<img src="/screenshots/eindwerk-01.png" alt="4" width="375px">
+<img src="./screenshots/eindwerk-02.png" alt="5" width="375px">
+<img src="screenshots/eindwerk-03.png" alt="6" width="375px">
+<img src="screenshots/eindwerk-04.png" alt="6" width="375px">
 </details>
 
 
