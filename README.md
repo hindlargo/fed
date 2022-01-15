@@ -96,11 +96,11 @@ nvt
 
 
 
-## Toegankelijkheidstest (week 4)
+##  Voortgang 3 (week 4)
 
 <details>
  <img src="screenshots/fed-07.png" alt="7" width="375px">
-
+ Ik heb me bezig gehouden om de pagina zo goed mogelijk te krijgen.
 
 </details>
 
@@ -116,26 +116,12 @@ nvt
 <img src="./screenshots/fed-05.png" alt="5" width="375px">
 <img src="screenshots/fed-06.png" alt="6" width="375px">
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had best veel moeite met de navigatie balk goed krijgen. Uiteindlijk is dit toch gelukt. Feedback voor voortgangsgesprek. 
+ - Micro-interactie met javascript
+ - States op het formulier bij productpagina
+ - Content van tweede pagina aanvullen
+ Verder HTML & CSS goed
 
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
 
 </details>
 
@@ -149,8 +135,8 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Ik ben heel druk bezig geweest met mijn pagina's goed krijgen. Ik heb meer content op de productpagina, waaronder een slider, detailpagina. Ook heb ik micro interacties met javascript en heb ik een formulier vormgegeven in css.
+ 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
@@ -171,8 +157,10 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://www.w3schools.com/howto/howto_js_rangeslider.asp   
+2. https://www.youtube.com/watch?v=iTQ3vegp7_w 
+3. https://www.youtube.com/watch?v=wHFflWvii3M
+4. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details  
+5. https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
 
 </details>
