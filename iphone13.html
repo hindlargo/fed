@@ -133,22 +133,45 @@
             <p>Met het schuifje hieronder bepaal je zelf hoe je de toestelkosten (768,00) betaalt.
               Je kunt het hele bedrag in één keer betalen, of kiezen hoeveel je per maand aflost.</p>
 
-            <div class="prijs">
-              <input type="range" min="0" max="100" value="50" id="slider">
-            </div>
+              <p id="waarde"></p>
+              <input type="range" name="" id="slider" value="50" min="10" max="768">
           </article>
         </section>
       </section>
       <section class="overzicht">
         <h3>Jouw keuze</h3>
+        <section class="cijfer">
         <ul>
-          <li>Toestel</li>
-          <li>Abonnement</li>
-          <li>Extra's</li>
-          <li>Totaal per maand</li>
-          <li>Eenmalig</li>
+          <li>Toestelkosten 10</li>  
+          <li>Abonnement 25</li>
+          <li>Extra keuze 0</li>
+          <li>Per maand 35</li>
+          <li>Eenmalig 528</li>
         </ul>
+      </section>
+        <p>totaal per maand</p>
+        <div class="totaal">35</div>
         <button class="bestel">Doorgaan met bestellen</button>
+      </section>
+      <section>
+      <details>
+        <summary>Overstappen</summary>
+        <p>Bekijk als je overstapt altijd eerst vanaf welke datum je je huidige contract kunt opzeggen. Zo voorkom je onverwachte kosten.</p>
+        <p>Wil je overstappen naar KPN, maar geen nieuw nummer uit je hoofd leren? Geen probleem! Bij KPN behoud je gratis je eigen nummer. Geef tijdens je bestelling aan welk 06-nummer je wilt hebben, dan regelen wij de rest. Je kunt al 120 dagen voor het einde van je huidige abonnement nummerbehoud aanvragen.</p>
+        <a href="#">Meer info over nummerbehoud</a>
+    </details>
+    <details>
+        <summary>Bestelling wijzigen of annuleren</summary>
+        <p>Je kunt je bestelling binnen 14 dagen wijzigen of annuleren. De bedenktijd gaat in op de startdatum van je abonnement. Na je annulering heb je nog eens 14 dagen de tijd om je bestelling terug te sturen.</p>
+        <p>Annuleer je de bestelling maar heb je wel minuten of MB’s verbruikt? Dan worden de gebruikskosten in rekening gebracht.</p>
+        <a href="#">Meer informatie over bestelling wijzigen of annuleren</a>
+    </details>
+    <details>
+        <summary>Verzending en bezorging</summary>
+        <p>Voor de meeste toestellen geldt: vóór 23:59 besteld, morgen in huis. Maar het kan zo zijn dat je iets langer moet wachten, bijvoorbeeld door drukte. Tijdens je bestelling zie je staan wanneer je het product kunt verwachten. Je kunt dan ook aangeven welke leverdatum jou het beste uitkomt.</p>
+        <p>Ben je benieuwd naar je bestelstatus of wil je meer informatie over je levering?</p>
+        <a href="#">Meer informatie over bestelling wijzigen of annuleren</a>
+    </details>
       </section>
       <script src="js/script.js" charset="utf-8"></script>
   </main>
