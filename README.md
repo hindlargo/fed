@@ -101,7 +101,6 @@ nvt
 <details>
  <img src="screenshots/fed-07.png" alt="7" width="375px">
  Ik heb me bezig gehouden om de pagina zo goed mogelijk te krijgen.
-
 </details>
 
 
@@ -138,8 +137,6 @@ Ik had best veel moeite met de navigatie balk goed krijgen. Uiteindlijk is dit t
 Ik ben heel druk bezig geweest met mijn pagina's goed krijgen. Ik heb meer content op de productpagina, waaronder een slider, detailpagina. Ook heb ik micro interacties met javascript en heb ik een formulier vormgegeven in css.
  
 ### Screenshot(s)
-
-hier screenshot(s) van je eindresultaat
 <img src="/screenshots/eindwerk-01.png" alt="4" width="375px">
 <img src="./screenshots/eindwerk-02.png" alt="5" width="375px">
 <img src="screenshots/eindwerk-03.png" alt="6" width="375px">
