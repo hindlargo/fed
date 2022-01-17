@@ -1,3 +1,4 @@
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/::before */
 *,
 *::after,
 *::before {
@@ -21,7 +22,8 @@ button {
   border: none;
   background: none;
 }
-
+/* navigatie */
+/* https://www.youtube.com/watch?v=S-JyJCVx_4Y */
 
 nav:nth-child(2) {
   display: none;
@@ -31,8 +33,7 @@ nav:nth-child(2).show {
   display: block;
 }
 
-/* navigatie */
-/* https://www.youtube.com/watch?v=S-JyJCVx_4Y */
+
 nav {
   max-width: 60em;
   margin: auto;
@@ -41,6 +42,12 @@ nav {
   display: flex;
   flex: 1;
 }
+
+nav a img {
+  width: auto;
+  height: 2em;
+}
+
 
 nav ul {
   list-style: none;
@@ -74,6 +81,7 @@ nav a {
 }
 /* dropdown */
 /* https://www.youtube.com/watch?v=wHFflWvii3M */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/clamp() */
 .drop ul{
   max-width: 40em;
   margin: auto;
@@ -94,10 +102,6 @@ nav a {
 }
 
 
-nav a img {
-  width: auto;
-  height: 2em;
-}
 
 
 /* -------------------------------------------------------------------------- */
@@ -113,6 +117,9 @@ img {
 
 /* -------------------------------------------------------------------------- */
 /*                            homepage main styling                           */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/clamp()                   */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/will-change               */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/transition-duration       */
 /* -------------------------------------------------------------------------- */
 
 #homepage main h1 {
@@ -131,7 +138,7 @@ img {
   font-size: clamp(8px, 3vw, 16px);
 }
 
-
+/* -----------bekijk alle telefoons, bekijk alle aanbiedingen----------- */
 #homepage .knoppen a{
   text-transform: capitalize;
   text-decoration: none;
@@ -153,6 +160,7 @@ img {
   transform: scale(1.1);
 }
 
+/* -----------bekijk deal----------- */
 #homepage main>article a {
    /* width: 150px; */
    text-transform: capitalize;
@@ -178,6 +186,7 @@ img {
 /*                              homepage articles                             */
 /* -------------------------------------------------------------------------- */
 
+/* -------iPhone 13: nu met € 100,- korting op AirPods------- */
 #homepage main>article {
   max-width: 60em;
   margin: auto;
@@ -255,7 +264,7 @@ img {
 /* -------------------------------------------------------------------------- */
 /*                              homepage sections                             */
 /* -------------------------------------------------------------------------- */
-
+/* ------producten en logo's ------*/
 #homepage main>section {
   color: black;
   display: grid;
@@ -277,6 +286,7 @@ img {
   text-decoration: none;
 }
 
+/* ------producten tekst ------*/
 #homepage main>section a p {
   font-size: clamp(8px, 3vw, 14px);
   width: 100%;
@@ -302,7 +312,6 @@ img {
  background: white;
   color: black;
   text-decoration: none;
-  /* border: 2px solid red; */
   overflow: hidden;
   border-radius: 0.5em;
   box-shadow: 0px 2px 10px rgba(201, 201, 201, 0.443);
@@ -398,7 +407,7 @@ img {
 /*                         page two button                                    */
 /* -------------------------------------------------------------------------- */
 
-
+/* ------kleuren ------*/
 #page2 .button1 {
   background-color: #008CBA;
   color: #008CBA;
@@ -438,6 +447,7 @@ img {
   border: solid rgb(187, 187, 187) 0.1px;
 }
 
+/* -----Extra's + knop------*/
 #page2 .button5 {
   max-width: 20em;
   margin: auto;
@@ -448,12 +458,13 @@ img {
   padding-top: 0.3em;
   padding-bottom: 0.3em;
   font-size: 1em;
-  border: solid rgb(187, 187, 187) 0.1px;
   margin-left: 12em;
   
 }
 
 #page2 .button6 {
+  max-width: 20em;
+  margin: auto;
   background-color: rgb(47, 113, 255);
   color: white;
   border-radius: 5em;
@@ -461,15 +472,15 @@ img {
   padding-top: 0.3em;
   padding-bottom: 0.3em;
   font-size: 1em;
-  border: solid rgb(187, 187, 187) 0.1px;
   margin-left: 12em;
+  
 }
 
 
 /* -------------------------------------------------------------------------- */
 /*                         page two form                                      */
 /* -------------------------------------------------------------------------- */
-
+/* -----Fomulieren------*/
 #page2 form fieldset {
   border: none;
   display: grid;
@@ -520,7 +531,7 @@ img {
 }
 
 #page2 .radiobutton:checked+.radiolabel {
-  background: rgb(67, 201, 67);
+  background: rgb(62, 105, 62);
   color: white;
 }
 
@@ -529,7 +540,7 @@ img {
 /* -------------------------------------------------------------------------- */
 
 
-
+/* ----nu met 100 korting op airpods, meer informatie, informatieen voorwaarden-------*/
 #page2 article a {
   max-width: 60em;
   margin: auto;
@@ -543,8 +554,9 @@ img {
 
 /* -------------------------------------------------------------------------- */
 /*                                besteloverzicht                             */
+/*     https://developer.mozilla.org/en-US/docs/Web/CSS/transform             */
 /* -------------------------------------------------------------------------- */
-
+/* -------Jouw keuze----------- */
 #page2 .overzicht {
   max-width: 60em;
   margin: auto;
@@ -672,6 +684,7 @@ img {
 }
 
 
+
 /* -------------------------------------------------------------------------- */
 /*                                     details                                */
 /* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details          */
@@ -694,7 +707,7 @@ img {
   padding: .2em;
   margin-left: 2em;
   margin-right: 2em;
-  font-size: clamp(0.1rem, 4vw, 16px);
+  font-size: clamp(0.1rem, 3.1vw, 16px);
 }
 
 #page2 details > summary {
